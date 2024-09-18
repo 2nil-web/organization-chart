@@ -2,13 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="356" height="204" version="1.1" viewBox="0 0 94.192 53.975" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient23" x1="1213.9" x2="1208.1" y1="1769.2" y2="1217.1" gradientTransform="matrix(-.22764 0 0 .14875 1291.3 -23.655)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient23" x1="1213.9" x2="1208.1" y1="1769.2" y2="1217.1" gradientTransform="matrix(-.22764 0 0 .14875 1301.1 -12.492)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fff" offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="matrix(.96371 0 0 1.418 -937.51 -219.2)" stroke="#000" stroke-width=".95454">
-  <path d="m1062 156.27-87.971-0.25191c0 13.276-0.15038 25.112-0.15038 35.592l88.121 0.17627c5.5192-4.6223 13.441-24.106 0-35.518z" fill="#fcc"/>
-  <path d="m1062 156.27-87.971-0.25191c0 13.276-0.15037 25.112-0.15037 35.592l88.121 0.17626c5.5192-4.6223 13.441-24.106 0-35.518z" fill="url(#linearGradient23)"/>
+  <g transform="translate(-9.8092 -11.746)">
+   <path d="m1071.8 167.43-87.971-0.25191c0 13.276-0.15038 25.112-0.15038 35.592l88.121 0.17627c5.5192-4.6223 13.441-24.106 0-35.518z" fill="#fcc" stroke="none"/>
+   <path d="m1071.8 167.43-87.971-0.25191c0 13.276-0.15037 25.112-0.15037 35.592l88.121 0.17626c5.5192-4.6223 13.528-23.988 0.087-35.4z" fill="url(#linearGradient23)"/>
+  </g>
  </g>
 </svg>
