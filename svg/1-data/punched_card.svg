@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="310" height="186" version="1.1" viewBox="0 0 82.021 49.212" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="310" height="186" version="1.1" viewBox="0 0 82.021 49.212" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient6631-9" x1="-211.43" x2="-214.91" y1="1679.9" y2="1275.9" gradientTransform="matrix(.22004 0 0 .26523 87.881 -337.7)" gradientUnits="userSpaceOnUse">
    <stop stop-opacity=".49412" offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <path d="m7.9755 1.1591 73.003-0.0258v46.97h-79.844l0.0832-38.594z" fill="url(#linearGradient6631-9)" stroke="#000" stroke-width="1.2079"/>
+ <path d="m7.9748 1.1587 73.003-0.0258v46.97h-79.844l0.0832-38.594z" fill="#92ad26" stroke="#000" stroke-width="1.2079"/>
+ <path d="m7.9754 1.1588 73.003-0.0258v46.97h-79.844l0.0832-38.594z" fill="url(#linearGradient6631-9)" stroke="#000" stroke-width="1.2079"/>
 </svg>

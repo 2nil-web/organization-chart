@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="304" height="172" version="1.1" viewBox="0 0 80.433 45.508" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="364" height="172" version="1.1" viewBox="0 0 96.308 45.508" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient21" x1="-687.4" x2="-687.52" y1="1380" y2="820.43" gradientTransform="matrix(.26556 0 0 .14104 686.72 201.94)" gradientUnits="userSpaceOnUse">
    <stop stop-opacity=".49558" offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="matrix(.81734 0 0 1.294 -369.61 -409.78)" stroke="#000">
-  <rect x="453.34" y="317.56" width="96.261" height="33.428" fill="#d7f3fd" stroke-width=".96767"/>
-  <rect x="453.34" y="317.56" width="96.261" height="33.428" fill="url(#linearGradient21)" stroke-width=".96767"/>
+ <g transform="matrix(.98045 0 0 1.2905 -443.51 -408.61)" stroke="#000" stroke-width=".88902">
+  <rect x="453.34" y="317.56" width="96.261" height="33.428" fill="#d7f3fd"/>
+  <rect x="453.34" y="317.56" width="96.261" height="33.428" fill="url(#linearGradient21)"/>
   <path d="m549.63 324.27-96.326 0.0426" fill="#b8860b"/>
   <path d="m461.04 317.62-0.14603 33.296" fill="#b8860b"/>
  </g>

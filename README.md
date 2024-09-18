@@ -293,4 +293,3 @@ Tri
 
 Bande de transmission (?)
 ![](svg/4-others/transmittal_tape.svg "transmittal_tape")
-

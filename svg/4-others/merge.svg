@@ -2,10 +2,11 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="332" height="288" version="1.1" viewBox="0 0 87.842 76.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient6555" x1="1469.7" x2="1471.7" y1="869.37" y2="461.75" gradientUnits="userSpaceOnUse">
-   <stop stop-opacity=".49558" offset="0"/>
+  <linearGradient id="linearGradient2" x1="1469.7" x2="1471.7" y1="869.37" y2="461.75" gradientTransform="matrix(.43578 0 0 .43418 -597.08 -199.14)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".56078" offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <path transform="matrix(.43578 0 0 .43418 -597.08 -199.14)" d="m1566 462.39-94.555 165.16-95.756-164.47z" fill="url(#linearGradient6555)" stroke="#000" stroke-width="5"/>
+ <path d="m85.35 2.1606-41.205 71.709-41.729-71.41z" fill="#f7c9a0" stroke="#000" stroke-width="2.1749"/>
+ <path d="m85.354 1.6233-41.205 71.709-41.729-71.41z" fill="url(#linearGradient2)" stroke="#000" stroke-width="2.1749"/>
 </svg>

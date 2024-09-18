@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="306" height="192" version="1.1" viewBox="0 0 80.962 50.8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="306" height="192" version="1.1" viewBox="0 0 80.962 50.8" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient6629" x1="263.95" x2="260.83" y1="1671" y2="1266.1" gradientTransform="matrix(.21768 0 0 .26525 -18.247 -335.43)" gradientUnits="userSpaceOnUse">
    <stop stop-opacity=".49412" offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <path d="m1.1299 4.0294c18.387 17.15 47.147-11.747 78.575 0v40.944c-33.955-11.02-53.037 14.633-78.575 0z" fill="url(#linearGradient6629)" stroke="#000" stroke-width="1.2014"/>
+ <path d="m1.1296 4.0242c18.387 17.15 47.147-11.747 78.575 0v40.944c-33.955-11.02-53.037 14.633-78.575 0z" fill="#f2efb8" stroke="#000" stroke-width="1.2014"/>
+ <path d="m1.1296 4.0294c18.387 17.15 47.147-11.747 78.575 0v40.944c-33.955-11.02-53.037 14.633-78.575 0z" fill="url(#linearGradient6629)" stroke="#000" stroke-width="1.2014"/>
 </svg>
