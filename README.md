@@ -99,7 +99,7 @@ Ce symbole représente des données dont le support n’est pas spécifié.
 
 Ce symbole représente des données mémorisées sous une forme convenant pour leur traitement, le support n’étant pas spécifié.
 
-![](svg/1-data/online_storage.svg "online_storage.svg")
+![](svg/1-data/online_storage.svg "online_storage")
 
 ### 10.1.2              Symboles spécifiques
 
@@ -107,54 +107,54 @@ Ce symbole représente des données mémorisées sous une forme convenant pour l
 
 Ce symbole représente des données, le support utilisé étant la mémoire interne.
 
-![](svg/1-data/internal.svg "internal.svg")
+![](svg/1-data/internal.svg "internal")
 
 #### 10.1.2.2            Mémoire à accès séquentiel
 
 Ce symbole représente des données qui peuvent seulement être consultées en accès séquentiel, le support étant par exemple une bande magnétique, une cartouche de bande ou une cassette magnétique.
 
-![](svg/1-data/sequential.svg "sequential.svg")
+![](svg/1-data/sequential.svg "sequential")
 
 #### 10.1.2.3            Mémoire à accès direct
 
 Ce symbole représente des données accessibles directement, le support étant par exemple un disque magnétique, un tambour ou une disquette.
 
-![](svg/1-data/random_access.svg "random_access.svg")
+![](svg/1-data/random_access.svg "random_access")
 
 #### 10.1.2.4            Document/documents
 
 Ce symbole représente des données lisibles par l’homme, le support étant par exemple un état réalisé par imprimante, un document en OCR ou MICR, un microfilm, une bande de comptage, des imprimés de saisie de données.
 
-![](svg/1-data/document.svg "document.svg")
-![](svg/1-data/multiple_documents.svg "multiple_documents.svg")
+![](svg/1-data/document.svg "document")
+![](svg/1-data/multiple_documents.svg "multiple_documents")
 
 #### 10.1.2.5            Entrée manuelle
 
 Ce symbole représente des données, le support étant l’un de ceux pour lesquels l’information est entrée manuellement au moment du traitement, par exemple clavier en ligne, positionnement d’interrupteurs, poussoirs, crayons lumineux, sonde de lecture de code à barres.
 
-![](svg/1-data/manual_input.svg "manual_input.svg")
+![](svg/1-data/manual_input.svg "manual_input")
 
 #### 10.1.2.6            Opération de Saisie
 
-![](svg/1-data/keying.svg "keying.svg")
+![](svg/1-data/keying.svg "keying")
 
 #### 10.1.2.7            Carte
 
 Ce symbole représente des données, le support étant constitué de cartes, par exemple cartes perforées, cartes magnétiques, cartes à lecture graphique, cartes à talons, cartes à marques optiques.
 
-![](svg/1-data/punched_card.svg "punched_card.svg")
+![](svg/1-data/punched_card.svg "punched_card")
 
 #### 10.1.2.8            Bande perforée
 
 Ce symbole représente des données, le support étant une bande de papier.
 
-![](svg/1-data/punched_tape.svg "punched_tape.svg")
+![](svg/1-data/punched_tape.svg "punched_tape")
 
 #### 10.1.2.9            Affichage
 
 Ce symbole représente des données, le support étant l’un quelconque de ceux sur lesquels les informations sont affichées à l’intention de l’homme, par exemple écrans vidéo, voyants en ligne.
 
-![](svg/1-data/display.svg "display.svg")
+![](svg/1-data/display.svg "display")
 
 ## 10.2  Symboles de traitement
 
@@ -164,7 +164,7 @@ Ce symbole représente des données, le support étant l’un quelconque de ceux
 
 Ce symbole représente une partie quelconque de traitement, par exemple exécution d’une opération définie ou d’un groupe d’opérations produisant une codification de la valeur, de la forme ou de la position d’informations, ou la détermination de la direction suivie parmi toutes les directions possibles.
 
-![](svg/2-process/process.svg "process.svg")
+![](svg/2-process/process.svg "process")
 
 ### 10.2.2              Symboles de traitements particuliers
 
@@ -172,57 +172,57 @@ Ce symbole représente une partie quelconque de traitement, par exemple exécuti
 
 Ce symbole représente un traitement nommé composé d’une ou plusieurs opérations ou pas de programme spécifié par ailleurs, par exemple : un sous-programme, un module.
 
-![](svg/2-process/module.svg "module.svg")
+![](svg/2-process/module.svg "module")
 
 #### 10.2.2.2            Opération manuelle
 
 Ce symbole représente tout traitement exécuté par un opérateur humain.
 
-![](svg/2-process/manual_operation.svg "manual_operation.svg")
+![](svg/2-process/manual_operation.svg "manual_operation")
 
 #### 10.2.2.3            Préparation
 
 Ce symbole représente la modification d’une instruction ou d’un groupe d’instructions pour effectuer une activité ultérieure, par exemple le positionnement d’une bascule ou d’un interrupteur, la modification d’un registre d’index ou l’initialisation d’une routine.
 
-![](svg/2-process/preparation.svg "preparation.svg")
+![](svg/2-process/preparation.svg "preparation")
 
 #### 10.2.2.4            Décision
 
 Ce symbole représente une fonction de type sélection ou décision comportant une seule entrée mais pour laquelle existent plusieurs sorties possibles, dont une seule peut être activée après l’évaluation des conditions définies dans le symbole. Les résultats de l’évaluation peuvent être écrits à côté des lignes représentant les chemins possibles.
 
-![](svg/2-process/decision.svg "decision.svg")
+![](svg/2-process/decision.svg "decision")
 
 #### 10.2.2.5            Symbole de commencement ou de terminaison
 
 Ce symbole indique le début ou la fin d’un enchainement d’actions (ou algorithme).
 
-![](svg/2-process/terminal.svg "terminal.svg")
+![](svg/2-process/terminal.svg "terminal")
 
 #### 10.2.2.6            Travail en parallèle
 
 Ce symbole représente la synchronisation de deux opérations ou plus, fonctionnant en parallèle.
 
-![](svg/2-process/parallel.svg "parallel.svg")
+![](svg/2-process/parallel.svg "parallel")
 
 Exemple :
 
-![](svg/5-examples/parallel.svg "parallel.svg")
+![](svg/5-examples/parallel.svg "parallel")
 
 #### 10.2.2.7            Limite de boucle
 
 Ce symbole en deux parties représente le début et la fin d’une boucle. Les deux parties du symbole ont le même identificateur. Les conditions d’initialisation, d’incrémentation, d’achèvement, etc., sont dans le symbole de début ou de fin, suivant la position de l’opération de test.
 
-![](svg/2-process/loop_start.svg "loop_start.svg")
+![](svg/2-process/loop_start.svg "loop_start")
 
-![](svg/2-process/loop_end.svg "loop_end.svg")
+![](svg/2-process/loop_end.svg "loop_end")
 
 Exemple :
 
-![](svg/5-examples/loop.svg "loop.svg")
+![](svg/5-examples/loop.svg "loop")
 
 #### 10.2.2.8            Délai, retard, pause
 
-![](svg/2-process/delay.svg "delay.svg")
+![](svg/2-process/delay.svg "delay")
 
 ## 10.3  Symboles de représentation des lignes
 
@@ -233,7 +233,7 @@ Exemple :
 Ligne de liaison
 Ce symbole représente la circulation des données ou du contrôle.
 
-![](svg/3-links/flow.svg "flow.svg")
+![](svg/3-links/flow.svg "flow")
 
 ### 10.3.2              Symboles spécifiques
 
@@ -241,44 +241,56 @@ Ce symbole représente la circulation des données ou du contrôle.
 
 Ce symbole représente un transfert immédiat du contrôle d’un traitement à un autre, parfois avec un risque de retour direct au traitement d’activation après l’achèvement des opérations du traitement activé. Le type de transfert de contrôle doit être inscrit dans le symbole ; exemple : appel, recherche, événement.
 
-![](svg/3-links/control_transfer.svg "control_transfer.svg")
+![](svg/3-links/control_transfer.svg "control_transfer")
 
 #### 10.3.2.2            Ligne de télécommunications
 
 Ce symbole représente le transfert de données par une ligne de télécommunications.
 
-![](svg/3-links/communication_line.svg "communication_line.svg")
+![](svg/3-links/communication_line.svg "communication_line")
 
 #### 10.3.2.3            Tirets
 
 Ce symbole représente une autre relation possible entre deux symboles ou davantage.  II est également utilisé pour entourer une annotation.
 
-![](svg/3-links/relation.svg "relation.svg")
+![](svg/3-links/relation.svg "relation")
 
 Exemples :
 Lorsqu’une sortie parmi plusieurs traitements possibles est utilisée comme entrée pour un traitement, ou bien quand une sortie est utilisée comme entrée pour d’autres traitements possibles, ces symboles sont reliés par des lignes composées de tirets.
 
-![](svg/5-examples/multiple_processes.svg "multiple_processes.svg")
+![](svg/5-examples/multiple_processes.svg "multiple_processes")
 
 ## 10.4  Autres symboles
 
-![](svg/3-links/comment.svg "comment.svg")
+Commentaire
 
-![](svg/4-others/branching.svg "branching.svg")
+![](svg/3-links/comment.svg "comment")
 
-![](svg/4-others/connector.svg "connector.svg")
+Branchement
 
-![](svg/4-others/extract.svg "extract.svg")
+![](svg/4-others/branching.svg "branching")
 
-![](svg/4-others/merge.svg "merge.svg")
+Connecteur
+![](svg/4-others/connector.svg "connector")
 
-![](svg/4-others/off_page.svg "off_page.svg")
+Extraction
+![](svg/4-others/extract.svg "extract")
 
-![](svg/4-others/on_page.svg "on_page.svg")
+Fusion
+![](svg/4-others/merge.svg "merge")
 
-![](svg/4-others/or.svg "or.svg")
+Hors page
+![](svg/4-others/off_page.svg "off_page")
 
-![](svg/4-others/sort.svg "sort.svg")
+En page
+![](svg/4-others/on_page.svg "on_page")
 
-![](svg/4-others/transmittal_tape.svg "transmittal_tape.svg")
+Ou
+![](svg/4-others/or.svg "or")
+
+Tri
+![](svg/4-others/sort.svg "sort")
+
+Bande de transmission (?)
+![](svg/4-others/transmittal_tape.svg "transmittal_tape")
 
