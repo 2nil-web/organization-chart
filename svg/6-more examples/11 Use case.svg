@@ -1,0 +1,2243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1800"
+   height="1700"
+   viewBox="0 0 476.24994 449.79161"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="WP 1.11 Use case GMUM OCP.svg"
+   inkscape:export-filename="WP 1.11 Use case GMUM OCP.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="608.11183"
+     inkscape:cy="1098.8439"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient8">
+      <stop
+         id="stop7"
+         style="stop-color:#ffffcc;stop-opacity:0.46666667;"
+         offset="0" />
+      <stop
+         id="stop8"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient24">
+      <stop
+         id="stop23"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop24"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient22">
+      <stop
+         id="stop21"
+         style="stop-color:#000000;stop-opacity:0.99607843;"
+         offset="0" />
+      <stop
+         id="stop22"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6603">
+      <stop
+         id="stop6605"
+         style="stop-color:#000000;stop-opacity:.49558"
+         offset="0" />
+      <stop
+         id="stop6607"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6595"
+       x1="-690.84998"
+       x2="-700"
+       y1="1474.8"
+       y2="892.69"
+       gradientTransform="matrix(0.26458,0,0,0.26458,38.09389,-95.165176)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6603" />
+    <linearGradient
+       id="linearGradient10"
+       x1="-687.40002"
+       x2="-687.52002"
+       y1="1380"
+       y2="820.42999"
+       gradientTransform="matrix(0.38742665,0,0,0.07940405,-215.04031,-197.81636)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6603" />
+    <marker
+       id="ConcaveTriangle"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1"
+       refX="0"
+       refY="0">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path2" />
+    </marker>
+    <marker
+       id="marker2"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path3" />
+    </marker>
+    <linearGradient
+       id="linearGradient18"
+       x1="-687.40002"
+       x2="-687.52002"
+       y1="1380"
+       y2="820.42999"
+       gradientTransform="matrix(0.38742665,0,0,0.07940405,-215.04034,-163.8647)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-opacity=".49412"
+         offset="0"
+         id="stop5" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <marker
+       id="ConcaveTriangle-4"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path4" />
+    </marker>
+    <marker
+       id="marker2-0"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path5" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7" />
+    </marker>
+    <marker
+       id="marker2-0-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8" />
+    </marker>
+    <linearGradient
+       id="linearGradient9"
+       x1="-687.40002"
+       x2="-687.52002"
+       y1="1380"
+       y2="820.42999"
+       gradientTransform="matrix(0.38742665,0,0,0.07940405,-215.04034,-130.0267)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6603" />
+    <linearGradient
+       id="linearGradient11"
+       x1="-687.40002"
+       x2="-687.52002"
+       y1="1380"
+       y2="820.42999"
+       gradientTransform="matrix(0.38742665,0,0,0.07932866,-129.03533,-66.853062)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6603" />
+    <marker
+       id="marker25"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path1" />
+    </marker>
+    <marker
+       id="marker25-9"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path9" />
+    </marker>
+    <marker
+       id="marker25-9-1"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path10" />
+    </marker>
+    <marker
+       id="marker25-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path6" />
+    </marker>
+    <marker
+       id="marker25-9-5"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path9-2" />
+    </marker>
+    <marker
+       id="marker25-9-58"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path9-1" />
+    </marker>
+    <marker
+       id="marker25-95"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path1-9" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-8"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-2" />
+    </marker>
+    <marker
+       id="marker2-0-3-9"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-6" />
+    </marker>
+    <marker
+       id="marker25-9-6"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path9-6" />
+    </marker>
+    <marker
+       id="marker25-9-58-9"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path9-1-1" />
+    </marker>
+    <linearGradient
+       id="linearGradient2-8"
+       gradientTransform="matrix(2.7410706,0,0,0.36482095,454.33477,31.471621)"
+       x1="69.435074"
+       y1="705.51581"
+       x2="121.30011"
+       y2="705.51581"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1"
+         style="stop-color:#000000;stop-opacity:.49558"
+         offset="0" />
+      <stop
+         id="stop2"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <marker
+       id="marker25-9-6-9"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path9-6-3" />
+    </marker>
+    <marker
+       id="marker25-9-6-1"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path9-6-6" />
+    </marker>
+    <marker
+       id="marker25-9-6-9-0"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path9-6-3-5" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.41108079,0,0,0.10129804,236.20974,-78.327201)"
+       x1="-687.40002"
+       y1="1380"
+       x2="-687.52002"
+       y2="820.42999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.41094645,0,0,0.10531185,443.70862,-83.40144)"
+       x1="-687.40002"
+       y1="1380"
+       x2="-687.52002"
+       y2="820.42999" />
+    <linearGradient
+       id="linearGradient6627"
+       y2="1219.6"
+       xlink:href="#linearGradient6613"
+       gradientUnits="userSpaceOnUse"
+       x2="726.27002"
+       y1="1713.1"
+       x1="736.42999"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.16306993,0,0,0.09884589,67.783112,34.494697)" />
+    <linearGradient
+       id="linearGradient6613">
+      <stop
+         id="stop6615"
+         style="stop-color:#000000;stop-opacity:.49412"
+         offset="0" />
+      <stop
+         id="stop6617"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6563"
+       y2="532.88"
+       xlink:href="#linearGradient6603"
+       gradientUnits="userSpaceOnUse"
+       x2="-224.16"
+       y1="1102.7"
+       x1="-221.12"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.19596039,0,0,0.0798534,145.89286,113.95714)" />
+    <marker
+       id="ConcaveTriangle-4-0-1"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0" />
+    </marker>
+    <marker
+       id="marker2-0-3-98"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient15"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19551538,0,0,0.07970095,347.82096,114.07609)"
+       x1="-221.12"
+       y1="1102.7"
+       x2="-224.16"
+       y2="532.88" />
+    <marker
+       id="ConcaveTriangle-4-0-1-5-4"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-6" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-1"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-5" />
+    </marker>
+    <linearGradient
+       id="linearGradient6595-6"
+       y2="892.69"
+       xlink:href="#linearGradient6603"
+       gradientUnits="userSpaceOnUse"
+       x2="-700"
+       y1="1474.8"
+       x1="-690.84998"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.15676691,0,0,0.15676691,408.56731,-46.363164)" />
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-5"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-8" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-7"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-6" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-6"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-1" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-2"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-4" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-6-6"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-1-6" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-2-0"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-4-9" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-6-0"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-1-9" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-2-2"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-4-4" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient38"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19551538,0,0,0.07970095,347.82096,9.6220606)"
+       x1="-221.12"
+       y1="1102.7"
+       x2="-224.16"
+       y2="532.88" />
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-6-9"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-1-2" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-2-8"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-4-48" />
+    </marker>
+    <marker
+       id="marker25-0"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path1-0" />
+    </marker>
+    <marker
+       id="marker25-95-9"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path1-9-3" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient44"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.16328646,0,0,0.08654162,379.64754,186.06052)"
+       x1="-687.40002"
+       y1="1380"
+       x2="-687.52002"
+       y2="820.42999" />
+    <marker
+       id="ConcaveTriangle-4-0-1-2"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-4" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-8"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-8" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-7"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-61" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-2" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6613"
+       id="linearGradient50"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.16263238,0,0,0.09884948,68.098816,184.75267)"
+       x1="736.42999"
+       y1="1713.1"
+       x2="726.27002"
+       y2="1219.6" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient15-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19551538,0,0,0.07970095,311.72463,263.34777)"
+       x1="-221.12"
+       y1="1102.7"
+       x2="-224.16"
+       y2="532.88" />
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-2"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-5" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-3" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-6-0-6"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-1-9-3" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-2-2-6"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-4-4-0" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-2-1"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-4-1" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-8-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-8-1" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-8" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-4"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-52" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-8"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1"
+       refX="0"
+       refY="0">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path2-27" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient13"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1567669,0,0,0.1567669,492.5958,112.20637)"
+       x1="-690.84998"
+       y1="1474.8"
+       x2="-700"
+       y2="892.69" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24"
+       id="linearGradient23"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.10521037,0,0,0.0938895,475.32803,-39.424493)"
+       x1="1213.9"
+       y1="1769.2"
+       x2="1208.1"
+       y2="1217.1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient25"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19133856,0,0,0.08659299,475.40161,235.82812)"
+       x1="-687.40002"
+       y1="1380"
+       x2="-687.52002"
+       y2="820.42999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient27"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19133856,0,0,0.08659299,554.85153,235.59267)"
+       x1="-687.40002"
+       y1="1380"
+       x2="-687.52002"
+       y2="820.42999" />
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-6-6-2"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-1-6-1" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-2-0-4"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-4-9-4" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-2-9"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-5-1" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-3-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-3-9" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient36"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19551538,0,0,0.07970095,145.78204,263.35763)"
+       x1="-221.12"
+       y1="1102.7"
+       x2="-224.16"
+       y2="532.88" />
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-4"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-2" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-37"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-45" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-4-5"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-2-9" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-37-3"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-45-4" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-1"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1"
+       refX="0"
+       refY="0">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path2-0" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-0"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1"
+       refX="0"
+       refY="0">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path2-28" />
+    </marker>
+    <linearGradient
+       id="linearGradient6585"
+       y2="888.28998"
+       xlink:href="#linearGradient6603"
+       gradientUnits="userSpaceOnUse"
+       x2="89.206001"
+       y1="1430.8"
+       x1="86.18"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.16428381,0,0,0.13718652,363.42,289.21772)" />
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-42"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-4" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-4"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-7" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-0-9"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1"
+       refX="0"
+       refY="0">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path2-28-4" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-0-9-6"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1"
+       refX="0"
+       refY="0">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path2-28-4-4" />
+    </marker>
+    <marker
+       id="ConcaveTriangle-4-0-1-5-5-6-0-6-8"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path7-0-2-1-1-9-3-8" />
+    </marker>
+    <marker
+       id="marker2-0-3-98-3-6-2-2-6-8"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         id="path8-7-4-9-4-4-0-9" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.16388128,0,0,0.0867911,211.41139,317.10567)"
+       x1="-687.40002"
+       y1="1380"
+       x2="-687.52002"
+       y2="820.42999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient37"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.20292731,0,0,0.20292731,338.09584,13.323167)"
+       x1="-192.92"
+       y1="1463"
+       x2="-193.21001"
+       y2="885.12" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.978367;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 95.814705,398.48527 v 30.08646 H 22.106222 V 166.39 h 39.101456"
+       id="path33" />
+    <g
+       transform="matrix(0,0.77642264,-1.0989049,0,507.93313,206.31093)"
+       id="g52">
+      <g
+         fill="#25ae88"
+         id="g48">
+        <path
+           d="m 238.46,131.02 c 3e-5,5.5325 -11.842,10.017 -26.452,10.017 -14.61,0 -26.452,-4.484 -26.452,-10.017 0,-5.5325 11.842,-10.017 26.452,-10.017 14.61,0 26.452,4.4843 26.452,10.017"
+           stroke="#000000"
+           stroke-width="0.94981"
+           id="path46" />
+        <rect
+           x="185.64999"
+           y="103.03"
+           width="52.761002"
+           height="27.701"
+           id="rect46" />
+        <path
+           d="m 238.16,102.32 c 3e-5,5.5325 -11.842,10.017 -26.452,10.017 -14.61,0 -26.452,-4.484 -26.452,-10.017 0,-5.5325 11.842,-10.017 26.452,-10.017 14.61,0 26.452,4.4843 26.452,10.017"
+           stroke="#000000"
+           stroke-width="0.94981"
+           id="path47" />
+        <path
+           d="m 238.16,99.828 c 3e-5,5.5325 -11.842,10.017 -26.452,10.017 -14.61,0 -26.452,-4.484 -26.452,-10.017 0,-5.5325 11.842,-10.017 26.452,-10.017 14.61,0 26.452,4.4843 26.452,10.017"
+           stroke="#000000"
+           stroke-width="0.94981"
+           id="path48" />
+      </g>
+      <g
+         stroke="#000000"
+         stroke-width="0.94981"
+         id="g51">
+        <path
+           d="m 238.16,97.404 c 3e-5,5.5325 -11.842,10.017 -26.452,10.017 -14.61,0 -26.452,-4.484 -26.452,-10.017 0,-5.5325 11.843,-10.017 26.452,-10.017 14.61,0 26.452,4.4843 26.452,10.017"
+           fill="#ed7161"
+           id="path49" />
+        <path
+           d="m 238.06,103.19 0.32512,27.695"
+           fill="#25ae88"
+           id="path50" />
+        <path
+           d="m 185.27,103.19 0.32512,27.695"
+           fill="#25ae88"
+           id="path51" />
+      </g>
+    </g>
+    <path
+       id="rect4857-4"
+       style="fill:#ff6347;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="m 369.76466,411.03742 h 30.20193 c 9.05811,10.0533 9.13337,22.85665 0,32.76288 h -30.20193 c -8.15472,-2.76418 -15.92485,-6.59318 -21.8054,-16.23053 6.03037,-7.23892 11.45846,-14.00812 21.8054,-16.53235 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4816-5-6-5"
+       style="fill:#56f039;fill-opacity:1;stroke:#000000;stroke-width:0.783836"
+       d="m 355.36294,271.0454 27.57685,-18.74621 29.00502,18.62707 -28.56449,18.92017 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4816-5-9"
+       style="fill:#56f039;fill-opacity:1;stroke:#000000;stroke-width:0.783836"
+       d="m 271.33446,112.47587 27.57686,-18.746213 29.00502,18.627063 -28.5645,18.92019 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4807-8-9-2-2"
+       style="fill:#f8ca12;fill-opacity:1;stroke:#000000;stroke-width:0.624156"
+       d="m 73.113022,305.91251 58.173608,-0.26862 -10.58931,19.06207 -58.173618,0.26862 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4807-0"
+       style="fill:#f8ca12;fill-opacity:1;stroke:#000000;stroke-width:0.625463"
+       d="m 73.058852,156.5934 58.306048,-0.26913 -10.61341,19.09855 -58.306058,0.26913 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4807-8-94"
+       style="fill:#f8ca12;fill-opacity:1;stroke:#000000;stroke-width:0.624156"
+       d="m 275.15192,156.63097 58.17363,-0.26862 -10.5893,19.06207 -58.17366,0.26862 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4807-8-9-9"
+       style="fill:#f8ca12;fill-opacity:1;stroke:#000000;stroke-width:0.624156"
+       d="m 239.05559,305.90265 58.17363,-0.26862 -10.5893,19.06207 -58.17366,0.26862 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4807-8-7-5"
+       style="fill:#f8ca12;fill-opacity:1;stroke:#000000;stroke-width:0.624156"
+       d="m 275.15191,52.176903 58.17364,-0.26862 -10.58931,19.06206 -58.17365,0.26862 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <rect
+       id="rect4029-2-7"
+       style="fill:#c5d3eb;fill-opacity:1;stroke:#000000;stroke-width:0.59631"
+       height="20.570356"
+       width="59.40369"
+       y="388.19266"
+       x="67.502304" />
+    <rect
+       id="rect4029-6-06"
+       style="fill:#c5d3eb;fill-opacity:1;stroke:#000000;stroke-width:0.643595"
+       height="20.523405"
+       width="69.356407"
+       y="306.75269"
+       x="307.36249" />
+    <rect
+       id="rect4029-6-0-4"
+       style="fill:#c5d3eb;fill-opacity:1;stroke:#000000;stroke-width:0.643595"
+       height="20.523405"
+       width="69.356407"
+       y="306.51727"
+       x="386.81253" />
+    <rect
+       id="rect4029-3-4"
+       style="fill:#c5d3eb;fill-opacity:1;stroke:#000000;stroke-width:0.594371"
+       height="20.511229"
+       width="59.18808"
+       y="256.94302"
+       x="236.2612" />
+    <rect
+       x="21.728569"
+       y="4.7100086"
+       width="149.00851"
+       height="24.008528"
+       ry="7.5198016"
+       fill="url(#linearGradient10)"
+       stroke-width="1.02909"
+       id="rect11-6-9"
+       style="fill:#ffffcc;fill-opacity:0.466667;stroke:#000000;stroke-width:0.991473;stroke-dasharray:none" />
+    <rect
+       x="229.27409"
+       y="3.4016747"
+       width="149.00851"
+       height="24.008528"
+       ry="7.5198016"
+       fill="url(#linearGradient10)"
+       stroke-width="1.02909"
+       id="rect11-6-9-8"
+       style="fill:#ffffcc;fill-opacity:0.466667;stroke:#000000;stroke-width:0.991473;stroke-dasharray:none" />
+    <path
+       id="rect4882"
+       style="fill:url(#linearGradient6627);stroke:#000000;stroke-width:0.6348"
+       d="m 160.76395,154.32552 h 53.85548 c -7.34711,8.14987 -4.32151,17.05389 0,23.3652 h -53.85548 c -3.68668,-2.70234 -9.58526,-13.88488 0,-23.3652 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="163.67854"
+       y="165.52852"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         x="163.67854"
+         y="165.52852">Zone d'échange</tspan><tspan
+         sodipodi:role="line"
+         id="tspan52"
+         x="163.67854"
+         y="173.46602">     STA-PLAN</tspan></text>
+    <path
+       id="rect4807-8-9-2"
+       style="fill:url(#linearGradient36);stroke:#000000;stroke-width:0.624156"
+       d="m 73.300595,305.9123 58.173625,-0.26862 -10.58931,19.06207 -58.173639,0.26862 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 263.52313,166.00812 H 210.3196"
+       marker-mid="url(#marker2-0-3-98-3)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5);marker-mid:url(#marker2-0-3-98-3)" />
+    <path
+       style="fill:none;stroke:#5e5eff;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 185.55497,0.26961804 V 154.14108"
+       id="path15" />
+    <path
+       style="fill:none;stroke:#5e5eff;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 185.29039,178.17843 V 304.79781"
+       id="path15-54" />
+    <path
+       style="fill:none;stroke:#5e5eff;stroke-width:3.62824;stroke-dasharray:none;stroke-opacity:1"
+       d="M 186.21951,328.34792 V 449.94021"
+       id="path15-54-8" />
+    <path
+       id="rect5015-9-8"
+       style="fill:url(#linearGradient23);stroke:#000000;stroke-width:0.496946"
+       d="m 369.32858,74.144248 -40.65749,-0.158993 c 0,8.380033 -0.0695,15.850646 -0.0695,22.465873 l 40.72694,0.111294 c 2.55082,-2.917606 6.21225,-15.215729 0,-22.418917 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4816-5-6"
+       style="fill:url(#linearGradient13);stroke:#000000;stroke-width:0.783836"
+       d="m 355.28522,271.1837 27.57685,-18.74621 29.00502,18.62707 -28.56449,18.92017 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <rect
+       x="21.728569"
+       y="4.7100086"
+       width="149.00851"
+       height="24.008528"
+       ry="7.5198016"
+       fill="url(#linearGradient10)"
+       stroke-width="1.02909"
+       id="rect11-6"
+       style="fill:url(#linearGradient3);stroke:#000000;stroke-width:0.991473;stroke-dasharray:none" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="83.139709"
+       y="21.307652"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="83.139709"
+         y="21.307652">OCP</tspan></text>
+    <rect
+       x="229.29843"
+       y="2.9260201"
+       width="148.95984"
+       height="24.959837"
+       ry="7.8177638"
+       fill="url(#linearGradient10)"
+       stroke-width="1.04016"
+       id="rect11-6-2"
+       style="fill:url(#linearGradient4);stroke:#000000" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="280.13565"
+       y="19.985271"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="280.13565"
+         y="19.985271">GMUM</tspan></text>
+    <path
+       id="rect4807"
+       style="fill:url(#linearGradient6563);stroke:#000000;stroke-width:0.625463"
+       d="m 73.246421,156.59319 58.306069,-0.26913 -10.61341,19.09855 -58.306081,0.26913 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="73.257957"
+       y="165.5287"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="73.257957"
+         y="165.5287">Mise à disposition</tspan><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="73.257957"
+         y="173.4662">       STA-PLAN</tspan></text>
+    <path
+       d="M 149.77701,166.00812 H 126.60993"
+       marker-mid="url(#marker2-0-3-98)"
+       marker-start="url(#ConcaveTriangle-4-0-1)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1);marker-mid:url(#marker2-0-3-98)" />
+    <path
+       id="rect4807-8"
+       style="fill:url(#linearGradient15);stroke:#000000;stroke-width:0.624156"
+       d="m 275.33951,156.63076 58.17363,-0.26862 -10.5893,19.06207 -58.17366,0.26862 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4807-8-9"
+       style="fill:url(#linearGradient15-7);stroke:#000000;stroke-width:0.624156"
+       d="m 239.24318,305.90244 58.17363,-0.26862 -10.5893,19.06207 -58.17366,0.26862 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="279.80597"
+       y="165.5287"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="279.80597"
+         y="165.5287">Récupération</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         x="279.80597"
+         y="173.4662">  STA-PLAN</tspan></text>
+    <path
+       id="rect4807-8-7"
+       style="fill:url(#linearGradient38);stroke:#000000;stroke-width:0.624156"
+       d="m 275.3395,52.176705 58.17364,-0.26862 -10.58931,19.062059 -58.17365,0.268619 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="271.74445"
+       y="60.267357"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-49"><tspan
+         sodipodi:role="line"
+         id="tspan38"
+         x="271.74445"
+         y="60.267357">Scrutation stockage</tspan><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         x="271.74445"
+         y="68.204857">        STA-PLAN</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="338.18002"
+       y="87.483025"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-49-5"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         x="338.18002"
+         y="87.483025">Attente</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="282.30038"
+       y="110.934"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         x="282.30038"
+         y="110.934"> Nouveau</tspan><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         x="282.30038"
+         y="118.8715">STA-PLAN ?</tspan></text>
+    <path
+       id="rect4882-9"
+       style="fill:url(#linearGradient50);stroke:#000000;stroke-width:0.63396"
+       d="m 160.83014,304.58788 h 53.71099 c -7.32741,8.15016 -4.30993,17.05451 0,23.36605 h -53.71099 c -3.67678,-2.70244 -9.55954,-13.88538 0,-23.36605 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="163.67854"
+       y="316.47241"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         x="163.67854"
+         y="316.47241">Zone d'échange</tspan><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         x="163.67854"
+         y="324.40991">     PASS_REQ</tspan></text>
+    <path
+       d="m 216.19318,316.27092 h 17.45023"
+       marker-mid="url(#marker2-0-3-98-8)"
+       marker-start="url(#ConcaveTriangle-4-0-1-2)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-7"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-2);marker-mid:url(#marker2-0-3-98-8)" />
+    <path
+       d="m 131.6748,316.06667 h 23.91928"
+       marker-mid="url(#marker2-0-3-98-8-3)"
+       marker-start="url(#ConcaveTriangle-4-0-1-2-1)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-7-3"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-2-1);marker-mid:url(#marker2-0-3-98-8-3)" />
+    <path
+       d="m 299.13166,187.33642 v -11.8632"
+       marker-mid="url(#marker2-0-3-98-3-6)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5);marker-mid:url(#marker2-0-3-98-3-6)" />
+    <path
+       d="M 380.88956,406.42569 V 391.31875"
+       marker-mid="url(#marker2-0-3-98-3-6-4)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5-42)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3-0"
+       style="stroke-width:0.829825;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5-42);marker-mid:url(#marker2-0-3-98-3-6-4)" />
+    <path
+       d="M 265.26663,299.75091 V 277.81257"
+       marker-mid="url(#marker2-0-3-98-3-6-3)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5-2)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3-1"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5-2);marker-mid:url(#marker2-0-3-98-3-6-3)" />
+    <path
+       d="M 299.13166,46.636827 V 27.554265"
+       marker-mid="url(#marker2-0-3-98-3-6-2)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5-6)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3-2"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5-6);marker-mid:url(#marker2-0-3-98-3-6-2)" />
+    <path
+       d="M 299.13166,87.38191 V 70.908333"
+       marker-mid="url(#marker2-0-3-98-3-6-2-8)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5-6-9)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3-2-58"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5-6-9);marker-mid:url(#marker2-0-3-98-3-6-2-8)" />
+    <path
+       d="M 97.092747,150.22058 V 27.679436"
+       marker-mid="url(#marker2-0-3-98-3-6-2-2)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5-6-0)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3-2-5"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5-6-0);marker-mid:url(#marker2-0-3-98-3-6-2-2)" />
+    <path
+       d="M 97.092747,299.15644 V 175.48299"
+       marker-mid="url(#marker2-0-3-98-3-6-2-2-6)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5-6-0-6)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3-2-5-6"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5-6-0-6);marker-mid:url(#marker2-0-3-98-3-6-2-2-6)" />
+    <path
+       d="M 97.092747,382.30195 V 325.17298"
+       marker-mid="url(#marker2-0-3-98-3-6-2-2-6-8)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5-6-0-6-8)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3-2-5-6-4"
+       style="stroke-width:1;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5-6-0-6-8);marker-mid:url(#marker2-0-3-98-3-6-2-2-6-8)" />
+    <path
+       d="M 299.13166,150.61488 V 131.76246"
+       marker-mid="url(#marker2-0-3-98-3-6-2-0)"
+       marker-start="url(#ConcaveTriangle-4-0-1-5-5-6-6)"
+       stroke="#000000"
+       stroke-width="0.46552"
+       id="path14-8-4-3-2-0"
+       style="stroke-width:0.950216;stroke-dasharray:none;marker-start:url(#ConcaveTriangle-4-0-1-5-5-6-6);marker-mid:url(#marker2-0-3-98-3-6-2-0)" />
+    <path
+       id="rect4816-5"
+       style="fill:url(#linearGradient6595-6);stroke:#000000;stroke-width:0.783836"
+       d="m 271.25674,112.61417 27.57686,-18.746197 29.00502,18.627047 -28.5645,18.92019 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <rect
+       id="rect4029-2"
+       style="fill:url(#linearGradient47);stroke:#000000;stroke-width:0.59631"
+       height="20.570356"
+       width="59.40369"
+       y="388.25098"
+       x="67.3909" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="74.637718"
+       y="402.8746"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-4-06"><tspan
+         sodipodi:role="line"
+         id="tspan48"
+         x="74.637718"
+         y="402.8746">Traitements OCP</tspan></text>
+    <rect
+       id="rect4029-6"
+       style="fill:url(#linearGradient25);stroke:#000000;stroke-width:0.643595"
+       height="20.523405"
+       width="69.356407"
+       y="306.811"
+       x="307.2511" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="313.35321"
+       y="317.67917"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         x="313.35321"
+         y="317.67917">         STA-PLAN</tspan><tspan
+         sodipodi:role="line"
+         id="tspan47"
+         x="313.35321"
+         y="325.61667">BOOKED/CANCELED</tspan></text>
+    <rect
+       id="rect4029-6-0"
+       style="fill:url(#linearGradient27);stroke:#000000;stroke-width:0.643595"
+       height="20.523405"
+       width="69.356407"
+       y="306.57559"
+       x="386.70114" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="384.35867"
+       y="317.03561"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-4-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan42"
+         x="384.35867"
+         y="317.03561">             STA-PLAN</tspan><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         x="384.35867"
+         y="324.97311">REJECTED/NOT CANCELED</tspan></text>
+    <rect
+       id="rect4029-3"
+       style="fill:url(#linearGradient44);stroke:#000000;stroke-width:0.594371"
+       height="20.511229"
+       width="59.18808"
+       y="257.00134"
+       x="236.14978" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="249.23203"
+       y="267.62848"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan49"
+         x="249.23203"
+         y="267.62848">Production</tspan><tspan
+         sodipodi:role="line"
+         id="tspan50"
+         x="249.23203"
+         y="275.56598"> PASS_REQ</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="355.82098"
+       y="431.87033"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-4-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="355.82098"
+         y="431.87033">Afficher statut</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="237.86679"
+       y="315.4726"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-4-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="237.86679"
+         y="315.4726">Mise à disposition</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="237.86679"
+         y="323.4101">        PASS_REQ</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="79.390923"
+       y="315.48257"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-4-3-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         x="79.390923"
+         y="315.48257">Récupération</tspan><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         x="79.390923"
+         y="323.42007">   PASS_REQ</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="351.85873"
+       y="372.03247"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan43"
+         x="351.85873"
+         y="372.03247">Mise à jour</tspan><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         x="351.85873"
+         y="379.96997">        BD</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 319.854,217.5997 h 30.0721 v -99.39095"
+       id="path35" />
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="367.37534"
+       y="271.74402"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         x="367.37534"
+         y="271.74402">STA-PLAN</tspan><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         x="367.37534"
+         y="279.68152"> Accepté ?</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="285.55298"
+       y="142.76921"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-2-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="285.55298"
+         y="142.76921">Oui</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="340.36185"
+       y="270.84161"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-2-8-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan21-9"
+         x="340.36185"
+         y="270.84161">Oui</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="328.81381"
+       y="111.3388"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-2-8-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="328.81381"
+         y="111.3388">Non</tspan></text>
+    <text
+       transform="scale(1.0081026,0.99196253)"
+       x="411.53152"
+       y="270.61377"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="7.11098px"
+       stroke-width="1.0079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0079"
+       xml:space="preserve"
+       id="text12-3-6-2-2-8-8-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan24-4"
+         x="411.53152"
+         y="270.61377">Non</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 411.38077,271.221 13.43591,0.30044 v 0 28.84286"
+       id="path27" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-1)"
+       d="m 355.32911,271.14811 -13.42029,0.30277 v 0 29.06537"
+       id="path27-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 326.58083,112.52442 h 23.43786 v -9.81623"
+       id="path30" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 349.24532,73.670553 V 61.735093 H 333.88127"
+       id="path31" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 313.35971,237.03157 v 6.02491 h 69.58584 v 3.49834"
+       id="path34" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-0)"
+       d="m 284.25692,230.84604 v 12.98526 h -19.733 v 7.53981"
+       id="path34-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-0-9)"
+       d="m 425.1292,327.66711 v 10.37448 h -35.80325 v 6.02389"
+       id="path34-3-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-0-9-6)"
+       d="m 340.81986,327.69656 v 10.43807 h 35.79116 v 6.06082"
+       id="path34-3-2-9" />
+    <path
+       id="rect4857"
+       style="fill:url(#linearGradient6585);stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="m 369.59839,411.02289 h 30.20193 c 9.05811,10.0533 9.13337,22.85665 0,32.76288 h -30.20193 c -8.15472,-2.76418 -15.92485,-6.59318 -21.8054,-16.23053 6.03037,-7.23892 11.45846,-14.00812 21.8054,-16.53235 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4825-2-4"
+       sodipodi:rx="24.492615"
+       sodipodi:ry="24.492615"
+       style="fill:#adff2f;fill-opacity:1;stroke:#777777;stroke-width:1.01464;stroke-opacity:1"
+       sodipodi:type="arc"
+       d="m 274.54126,217.99776 a 24.492615,24.492615 0 0 1 24.09019,-24.86401 24.492615,24.492615 0 0 1 24.88849,24.06491 24.492615,24.492615 0 0 1 -24.03959,24.91294 24.492615,24.492615 0 0 1 -24.93737,-24.01425"
+       sodipodi:open="true"
+       sodipodi:cy="217.62311"
+       sodipodi:cx="299.03101"
+       sodipodi:end="3.1222289"
+       sodipodi:start="3.1262954"
+       sodipodi:arc-type="arc" />
+    <path
+       style="fill:#adff2f;fill-opacity:1;stroke:#777777;stroke-width:0.766967;stroke-dasharray:none;stroke-opacity:1"
+       d="m 299.03101,193.22946 v 48.78728"
+       id="path39" />
+    <path
+       style="fill:#adff2f;fill-opacity:1;stroke:#777777;stroke-width:0.766967;stroke-dasharray:none;stroke-opacity:1"
+       d="m 274.63736,217.6231 h 48.78728"
+       id="path39-0" />
+    <path
+       id="path4825-2"
+       sodipodi:rx="24.492615"
+       sodipodi:ry="24.492615"
+       style="fill:url(#linearGradient37);stroke:#000000;stroke-width:1.01464"
+       sodipodi:type="arc"
+       d="m 274.54126,217.99776 a 24.492615,24.492615 0 0 1 24.09019,-24.86401 24.492615,24.492615 0 0 1 24.88849,24.06491 24.492615,24.492615 0 0 1 -24.03959,24.91294 24.492615,24.492615 0 0 1 -24.93737,-24.01425"
+       sodipodi:open="true"
+       sodipodi:cy="217.62311"
+       sodipodi:cx="299.03101"
+       sodipodi:end="3.1222289"
+       sodipodi:start="3.1262954"
+       sodipodi:arc-type="arc" />
+    <text
+       x="299.3956"
+       y="215.21269"
+       text-anchor="middle"
+       id="text10-85-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;stroke-width:0.2"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="299.3956"
+         y="215.21269"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.2">Ingestion</tspan><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="299.3956"
+         y="223.15019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.2">STA-PLAN</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1200"
+   height="1200"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="WP 1.5 Se connecter au portail.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="WP 1.5 Se connecter au portail.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.47158032"
+     inkscape:cx="1049.6621"
+     inkscape:cy="656.30389"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     transform="matrix(4.1743184,0,0,4.2246688,655.78282,32.119015)"
+     stroke="#000000"
+     stroke-width="1.1359"
+     id="g23">
+    <path
+       d="m 60.632,110.88 h 48.741 c 14.618,14.265 14.74,32.433 0,46.489 H 60.632 c -13.16,-3.9222 -25.7,-9.3555 -35.19,-23.03 9.732,-10.272 18.492,-19.877 35.19,-23.459 z"
+       fill="#ff6347"
+       id="path22" />
+    <path
+       d="m 60.632,110.88 h 48.741 c 14.618,14.265 14.74,32.433 0,46.489 H 60.632 c -13.16,-3.9222 -25.7,-9.3555 -35.19,-23.03 9.732,-10.272 18.492,-19.877 35.19,-23.459 z"
+       fill="url(#linearGradient6585-9)"
+       id="path23"
+       style="fill:url(#linearGradient6585-9)" />
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-08-4)"
+     d="m 670.8165,399 v 35.54214 H 418.58268 v 42.53398"
+     id="path56-0-45" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-3-5-5)"
+     d="m 732.1676,399 v 35.54214 h 252.2339 v 42.53398"
+     id="path56-2-7-7" />
+  <g
+     id="g7"
+     transform="translate(483.86831,-164.74486)">
+    <text
+       x="185.47366"
+       y="550.2478"
+       text-anchor="middle"
+       id="text10-85-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.9126px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;stroke-width:3.77953;stroke-dasharray:none"
+       transform="scale(1.1606067,0.86161832)"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         x="185.47366"
+         y="550.2478"
+         style="stroke-width:3.77953;stroke-dasharray:none">_</tspan></text>
+    <path
+       id="path4825-2-4"
+       sodipodi:rx="97.970467"
+       sodipodi:ry="97.970375"
+       style="fill:#adff2f;fill-opacity:1;stroke:#777777;stroke-width:4.05854;stroke-opacity:1"
+       sodipodi:type="arc"
+       d="m 117.21926,480.91329 a 97.970467,97.970375 0 0 1 96.3608,-99.45596 97.970467,97.970375 0 0 1 99.55396,96.25955 97.970467,97.970375 0 0 1 -96.15838,99.65168 97.970467,97.970375 0 0 1 -99.74947,-96.05693"
+       sodipodi:open="true"
+       sodipodi:cy="479.41467"
+       sodipodi:cx="215.17827"
+       sodipodi:end="3.1222289"
+       sodipodi:start="3.1262954"
+       sodipodi:arc-type="arc" />
+    <path
+       style="fill:#adff2f;fill-opacity:1;stroke:#777777;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1"
+       d="M 117.2051,479.41471 H 313.1515"
+       id="path39-0" />
+    <path
+       style="fill:#adff2f;fill-opacity:1;stroke:#777777;stroke-width:3.06788;stroke-dasharray:none;stroke-opacity:1"
+       d="M 215.1783,381.84022 V 576.9892"
+       id="path39" />
+    <path
+       id="path4825-2"
+       sodipodi:rx="97.970467"
+       sodipodi:ry="97.970375"
+       style="fill:url(#linearGradient37);stroke:#000000;stroke-width:4.05854"
+       sodipodi:type="arc"
+       d="m 117.21926,480.91329 a 97.970467,97.970375 0 0 1 96.3608,-99.45596 97.970467,97.970375 0 0 1 99.55396,96.25955 97.970467,97.970375 0 0 1 -96.15838,99.65168 97.970467,97.970375 0 0 1 -99.74947,-96.05693"
+       sodipodi:open="true"
+       sodipodi:cy="479.41467"
+       sodipodi:cx="215.17827"
+       sodipodi:end="3.1222289"
+       sodipodi:start="3.1262954"
+       sodipodi:arc-type="arc" />
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-4-5)"
+     d="m 698.8581,110.60798 v 86.00377"
+     id="path51-6-9" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-08)"
+     d="m 398.40681,680.936 v 35.54214 H 146.17297 v 42.53398"
+     id="path56-0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-3-5)"
+     d="m 459.75793,680.936 v 35.54214 H 711.9918 v 42.53398"
+     id="path56-2-7" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.84015;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-4-0)"
+     d="M 428.97318,682.23167 V 757.6507"
+     id="path51-6-4" />
+  <!-- Abonnés -->
+  <!-- Gestionnaires Techniques -->
+  <!-- Gestionnaires Opérationnels -->
+  <!-- Services CNES -->
+  <!-- Flèches -->
+  <!-- Marker Definition (Arrowhead) -->
+  <defs
+     id="defs6">
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="5"
+       refY="5"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="#000000"
+         id="path6" />
+    </marker>
+    <linearGradient
+       id="linearGradient6633-9"
+       y2="1341.3"
+       xlink:href="#linearGradient6613"
+       gradientUnits="userSpaceOnUse"
+       x2="-674.71997"
+       y1="1666.1"
+       x1="-691.07001"
+       inkscape:collect="always"
+       gradientTransform="translate(1313.2136,-1311.3423)" />
+    <linearGradient
+       id="linearGradient6613">
+      <stop
+         id="stop6615"
+         style="stop-color:#000000;stop-opacity:.49412"
+         offset="0" />
+      <stop
+         id="stop6617"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6603">
+      <stop
+         id="stop6605"
+         style="stop-color:#000000;stop-opacity:.49558"
+         offset="0" />
+      <stop
+         id="stop6607"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient37"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.81170937,0,0,0.81170859,371.43759,-337.78438)"
+       x1="-192.92"
+       y1="1463"
+       x2="-193.21001"
+       y2="885.12" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6613"
+       id="linearGradient32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6849217,0,0,0.83335484,688.13535,-304.51891)"
+       x1="-691.07001"
+       y1="1666.1"
+       x2="-674.71997"
+       y2="1341.3" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6613"
+       id="linearGradient33"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.68494338,0,0,0.82989552,1048.7735,-299.66984)"
+       x1="-691.07001"
+       y1="1666.1"
+       x2="-674.71997"
+       y2="1341.3" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6613"
+       id="linearGradient39"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.68494338,0,0,0.82989552,1406.3702,-299.66986)"
+       x1="-691.07001"
+       y1="1666.1"
+       x2="-674.71997"
+       y2="1341.3" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-08"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-21" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-3-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-16-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-4-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-1-0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient144"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26556,0,0,0.14104,368.44,83.603)"
+       x1="-687.40002"
+       y1="1380"
+       x2="-687.52002"
+       y2="820.42999" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-4-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-1-06" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-08-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-21-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-3-5-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-16-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-4-0-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-1-0-4" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6603"
+       id="linearGradient144-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26556,0,0,0.14104,368.44,83.603)"
+       x1="-687.40002"
+       y1="1380"
+       x2="-687.52002"
+       y2="820.42999" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-08-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-21-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-3-5-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-16-8-3" />
+    </marker>
+    <linearGradient
+       id="linearGradient6585-9"
+       x1="86.18"
+       x2="89.206001"
+       y1="1430.8"
+       y2="888.28998"
+       gradientTransform="matrix(0.26512,0,0,0.19466,50.661,-61.953)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6603" />
+  </defs>
+  <!-- Légendes -->
+  <g
+     id="g6"
+     transform="translate(80)">
+    <rect
+       id="rect4849-7-6"
+       ry="61.432999"
+       style="fill:#ffffcc;fill-opacity:1;stroke:none;stroke-width:5"
+       rx="58.473999"
+       height="127.65"
+       width="359.48999"
+       y="26.557713"
+       x="441.59363" />
+    <rect
+       id="rect4849-7"
+       ry="61.432999"
+       style="fill:url(#linearGradient6633-9);stroke:#000000;stroke-width:5"
+       rx="58.473999"
+       height="127.65"
+       width="359.48999"
+       y="26.557713"
+       x="441.59363" />
+    <text
+       id="text4031-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000"
+       xml:space="preserve"
+       y="105.65356"
+       x="554.27606"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="554.27606"
+         y="105.65356">GMUM</tspan></text>
+  </g>
+  <g
+     id="g10"
+     transform="translate(-74,-28)">
+    <rect
+       id="rect4849-7-6-6"
+       ry="51.231747"
+       style="fill:#ffffcc;fill-opacity:1;stroke:none;stroke-width:3.80773"
+       rx="40.664551"
+       height="106.45309"
+       width="250"
+       y="810.38885"
+       x="89.255241" />
+    <rect
+       id="rect4849-7-8"
+       ry="51.195488"
+       style="fill:url(#linearGradient32);stroke:#000000;stroke-width:3.77751"
+       rx="40.050114"
+       height="106.37775"
+       width="246.22249"
+       y="810.42651"
+       x="91.143997" />
+    <text
+       id="text4031-9-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000"
+       xml:space="preserve"
+       y="878.71954"
+       x="141.61977"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         x="141.61977"
+         y="878.71954">Abonné</tspan></text>
+  </g>
+  <g
+     id="g9"
+     transform="translate(-154,-28)">
+    <rect
+       id="rect4849-7-6-6-6"
+       ry="50.747627"
+       style="fill:#ffffcc;fill-opacity:1;stroke:none;stroke-width:3.78969"
+       rx="40.664555"
+       height="105.44715"
+       width="250"
+       y="810.89178"
+       x="449.87836" />
+    <rect
+       id="rect4849-7-8-3"
+       ry="50.982971"
+       style="fill:url(#linearGradient33);stroke:#000000;stroke-width:3.76972"
+       rx="40.051376"
+       height="105.93616"
+       width="246.23029"
+       y="810.64728"
+       x="451.76321" />
+    <text
+       id="text4031-9-6-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000"
+       xml:space="preserve"
+       y="878.89661"
+       x="541.51379"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="541.51379"
+         y="878.89661">GO</tspan></text>
+  </g>
+  <g
+     id="g8"
+     transform="translate(-234,-28)">
+    <rect
+       id="rect4849-7-6-6-6-3"
+       ry="50.747627"
+       style="fill:#ffffcc;fill-opacity:1;stroke:none;stroke-width:3.78969"
+       rx="40.664555"
+       height="105.44715"
+       width="250"
+       y="810.89178"
+       x="807.47504" />
+    <rect
+       id="rect4849-7-8-3-3"
+       ry="50.982971"
+       style="fill:url(#linearGradient39);stroke:#000000;stroke-width:3.76972"
+       rx="40.051376"
+       height="105.93616"
+       width="246.23029"
+       y="810.64728"
+       x="809.35992" />
+    <text
+       id="text4031-9-6-1-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000"
+       xml:space="preserve"
+       y="878.88623"
+       x="902.14172"><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         x="902.14172"
+         y="878.88623">GT</tspan></text>
+  </g>
+  <g
+     id="g25"
+     transform="translate(-380,-1.011535)">
+    <g
+       transform="matrix(3.4812821,0,0,5.2564462,-524.97943,-780.6624)"
+       id="g20"
+       style="stroke-width:0.815667;stroke-dasharray:none">
+      <g
+         transform="translate(195.43,45.021)"
+         stroke="#000000"
+         stroke-width="0.96767"
+         id="g19"
+         style="stroke-width:0.815667;stroke-dasharray:none">
+        <rect
+           x="135.06"
+           y="199.22"
+           width="96.261002"
+           height="33.428001"
+           fill="#c5d3eb"
+           id="rect18"
+           style="stroke-width:0.815667;stroke-dasharray:none" />
+        <rect
+           x="135.06"
+           y="199.22"
+           width="96.261002"
+           height="33.428001"
+           fill="url(#linearGradient6565)"
+           id="rect19"
+           style="fill:url(#linearGradient144);stroke-width:0.815667;stroke-dasharray:none" />
+      </g>
+    </g>
+    <text
+       x="794.60535"
+       y="606.31482"
+       text-anchor="middle"
+       id="text10-8-3-3-9-1-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         x="794.60535"
+         y="606.31482">Authentification</tspan></text>
+  </g>
+  <g
+     id="g21"
+     transform="translate(-184,-8)">
+    <g
+       transform="matrix(3.4812821,0,0,5.2564462,-704.10913,-287.69593)"
+       id="g20-3"
+       style="stroke-width:0.815667;stroke-dasharray:none">
+      <g
+         transform="translate(195.43,45.021)"
+         stroke="#000000"
+         stroke-width="0.96767"
+         id="g19-5"
+         style="stroke-width:0.815667;stroke-dasharray:none">
+        <rect
+           x="135.06"
+           y="199.22"
+           width="96.261002"
+           height="33.428001"
+           fill="#c5d3eb"
+           id="rect18-2"
+           style="stroke-width:0.815667;stroke-dasharray:none" />
+        <rect
+           x="135.06"
+           y="199.22"
+           width="96.261002"
+           height="33.428001"
+           fill="url(#linearGradient6565)"
+           id="rect19-3"
+           style="fill:url(#linearGradient144-1);stroke-width:0.815667;stroke-dasharray:none" />
+      </g>
+    </g>
+    <text
+       x="614.09021"
+       y="1045.7708"
+       text-anchor="middle"
+       id="text10-8-3-3-9-1-9-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="614.09021"
+         y="1045.7708">Accès</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         x="614.09021"
+         y="1099.1041">utilisateur</tspan><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         x="614.09021"
+         y="1152.4375">authentifié</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-08-3)"
+     d="m 719.8165,887 v 35.54214 H 467.58268 v 42.53396"
+     id="path56-0-4" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-3-5-1)"
+     d="m 141.16764,887 v 35.54214 h 252.23382 v 42.53396"
+     id="path56-2-7-0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-4-0-1)"
+     d="M 430.0407,890.29567 V 963.3524"
+     id="path51-6-4-3" />
+  <text
+     x="989.91309"
+     y="553.73029"
+     text-anchor="middle"
+     id="text10-8-3-3-9-1-9-7-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle"><tspan
+       sodipodi:role="line"
+       id="tspan26"
+       x="989.91309"
+       y="553.73029">Consultation/</tspan><tspan
+       sodipodi:role="line"
+       id="tspan27"
+       x="989.91309"
+       y="607.06366">Navigation</tspan><tspan
+       sodipodi:role="line"
+       id="tspan28"
+       x="989.91309"
+       y="660.39703">aide en ligne</tspan></text>
+</svg>
